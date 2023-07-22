@@ -1,11 +1,17 @@
-# Weather_Forecasting_Tool_SARDAR_MAHBOOB
-Weather Forecasting Tool - Created a command line tool that accepts a city's name and returns the current weather forecast. It Leverages OpenWeatherMap API to fetch weather data and parse it using Python.  
-The file consists of the get_weather_data() function that is used to call the OpenWeatherMap Api which takes in city_name as an argument from the command line and generates a url consisting of api key,city_name and the official OpenWeatherMap url.
-The current weather forecast is requested by calling the request method with takes in above generated url to get back all required information.
-The main() method takes the user input as city_name and prints the current weather forecast by calling the  get_weather_data() method.
-The try and catch block helps in handling city not found error and returns back the console so that flow of instructions is not disturbed.
-The results can be generated in standard units of measurement, metric units of measurement or imperial units of measurement. 
-The user will be prompted when entering the name of the city in the main() method to mention the type of units of measurement that the user would like to see the final output being presented  on the treminal.
-There has been extensive use of Github Copilot when designing the code for weather forecasting tool where all the required libraries which were being used were prompted and with help of timely comments the code was being optimised according to our needs.
+## Weather Forecasting Tool
 
-Demo Video: https://drive.google.com/file/d/1UD1dYeTq2ytkThJKyJO4_a2Uek1w97gu/view
+### Introduction
+
+Welcome to the Weather Forecasting Tool repository! This command-line tool is designed to provide users with real-time weather forecasts for any city around the globe. Leveraging the OpenWeatherMap API and Python, this tool fetches weather data and efficiently parses it, ensuring you stay up-to-date with accurate weather information. With its simple interface, users can input the city name and quickly access the current weather information.
+
+Stay informed about the weather conditions in any part of the world with the Weather Forecasting Tool. It's your go-to solution for weather updates whenever you need them. Embrace the convenience of Python and OpenWeatherMap to keep track of the weather, wherever your adventures take you!
+
+### Features
+
+- **Real-time Weather Forecasts:** Get the current weather conditions for any city you desire.
+- **Easy-to-Use:** A simple command-line interface allows users to fetch weather data with minimal effort.
+- **Customizable Units:** Choose between standard, metric, or imperial units for the weather information displayed.
+- **Error Handling:** The tool gracefully handles city not found errors, ensuring a smooth user experience.
+- **Open-Source:** This tool is open-source, encouraging contributions and improvements from the community.
+
+[Watch the demo video](https://drive.google.com/file/d/1UD1dYeTq2ytkThJKyJO4_a2Uek1w97gu/view?usp=sharing)
