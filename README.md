@@ -14,4 +14,4 @@ Stay informed about the weather conditions in any part of the world with the Wea
 - **Error Handling:** The tool gracefully handles city not found errors, ensuring a smooth user experience.
 - **Open-Source:** This tool is open-source, encouraging contributions and improvements from the community.
 
-[Watch the demo video](https://drive.google.com/file/d/1UD1dYeTq2ytkThJKyJO4_a2Uek1w97gu/view?usp=sharing)
+![Watch the demo video](https://drive.google.com/file/d/1UD1dYeTq2ytkThJKyJO4_a2Uek1w97gu/view?usp=sharing)
