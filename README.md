@@ -14,4 +14,5 @@ Stay informed about the weather conditions in any part of the world with the Wea
 - **Error Handling:** The tool gracefully handles city not found errors, ensuring a smooth user experience.
 - **Open-Source:** This tool is open-source, encouraging contributions and improvements from the community.
 
-[![Watch the demo video](https://drive.google.com/uc?export=download&id=1UD1dYeTq2ytkThJKyJO4_a2Uek1w97gu)](https://drive.google.com/file/d/1UD1dYeTq2ytkThJKyJO4_a2Uek1w97gu/view)
+
+[Demo.webm](https://github.com/dev-SARDAR/Weather_Forecasting_Tool/assets/114346291/e40ddba0-3e48-458f-96b6-00d908f12d1f)
