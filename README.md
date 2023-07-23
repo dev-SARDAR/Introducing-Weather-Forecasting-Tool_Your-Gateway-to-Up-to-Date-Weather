@@ -13,6 +13,3 @@ Stay informed about the weather conditions in any part of the world with the Wea
 - **Customizable Units:** Choose between standard, metric, or imperial units for the weather information displayed.
 - **Error Handling:** The tool gracefully handles city not found errors, ensuring a smooth user experience.
 - **Open-Source:** This tool is open-source, encouraging contributions and improvements from the community.
-
-
-[Demo.webm](https://github.com/dev-SARDAR/Weather_Forecasting_Tool/assets/114346291/e40ddba0-3e48-458f-96b6-00d908f12d1f)
